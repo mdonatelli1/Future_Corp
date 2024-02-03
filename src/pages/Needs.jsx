@@ -53,7 +53,7 @@ function Needs() {
               <>
                 <h2>{elem.titleSolution}</h2>
                 <img
-                  src={`http://localhost:4242${elem.imageSolution}`}
+                  src={`https://mdonatelli1.github.io/Future_Corp-API${elem.imageSolution}`}
                   alt=""
                 />
               </>
