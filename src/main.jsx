@@ -14,18 +14,18 @@ const router = createBrowserRouter([
     element: <App />,
     children: [
       {
-        path: "/",
+        path: "/Future_Corp",
         element: <Home />,
       },
       {
-        path: "/needs/:id",
+        path: "/Future_Corp/needs/:id",
         element: <Needs />,
         loader: ({ params }) => {
         return (params);
         },
       },
       {
-        path: "/help",
+        path: "/Future_Corp/help",
         element: <Help />,
       },
     ],

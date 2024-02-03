@@ -8,7 +8,7 @@ function App() {
   return (
     <>
      <NavLink
-          to="/">
+          to="/Future_Corp">
       <header>
         <img id="logo" src={Logo} alt="Logo" />
         <h1>Future Corp</h1>

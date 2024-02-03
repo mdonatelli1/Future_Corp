@@ -11,28 +11,28 @@ function Home() {
       <div className="icon-container">
         <ButtonNav
           className="Menu1"
-          linkURL="/Needs/0"
+          linkURL="/Future_Corp/Needs/0"
           imgSrc={image1}
           altImg="boire"
           title="Trouver à boire"
         />
         <ButtonNav
           className="Menu2"
-          linkURL="/Needs/1"
+          linkURL="/Future_Corp/Needs/1"
           imgSrc={image2}
           altImg="manger"
           title="Trouver à manger"
         />
         <ButtonNav
           className="Menu3"
-          linkURL="/Needs/2"
+          linkURL="/Future_Corp/Needs/2"
           imgSrc={image3}
           altImg="Abri"
           title="Trouver un Abri"
         />
         <ButtonNav
           className="Menu4"
-          linkURL="/Needs/3"
+          linkURL="/Future_Corp/Needs/3"
           imgSrc={image4}
           altImg="repo"
           title="Se divertir"
